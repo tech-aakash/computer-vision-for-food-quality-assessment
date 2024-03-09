@@ -1,8 +1,6 @@
 # computer-vision-for-food-quality-assessment
 This project utilizes computer vision techniques to monitor banana quality from ripe to rotten.  The core implementation employs the YOLOv8n model to detect and annotate bananas in video footage, classifying them as fresh, ripe, or rotten.
 
-Absolutely! Here's a rewritten description in the 200-300 word range, incorporating your training and performance details:
-
 **Project Overview**
 
 Spot the Rot is a computer vision project designed to assess banana quality. It uses a custom-trained YOLOv8n object detection model to analyze video footage, identifying and classifying bananas as fresh, ripe, or rotten. The model was trained on a dataset of 1525 images, resulting in highly efficient and accurate predictions.
